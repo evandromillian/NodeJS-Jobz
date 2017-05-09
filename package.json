@@ -1,0 +1,23 @@
+{
+  "name": "dt-jobz",
+  "version": "0.0.1",
+  "description": "Distributed Jobs library for NodeJS",
+  "main": "lib/dt-jobz",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jobs",
+    "distributed",
+    "database"
+  ],
+  "author": "Evandro Millian (evandro.millian@yahoo.com)",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^3.30.4",
+    "sequelize-mysql": "^1.7.0"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
